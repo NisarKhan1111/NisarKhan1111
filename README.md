@@ -1,4 +1,4 @@
-![logo](https://github.com/NisarKhan1111/NisarKhan1111/blob/main/banner.png)
+![logo](https://github.com/NisarKhan1111/NisarKhan1111/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Nisar Khan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
